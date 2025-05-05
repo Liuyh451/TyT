@@ -16,6 +16,6 @@
 
 ![image-20250505205509181](C:\Users\86156\AppData\Roaming\Typora\typora-user-images\image-20250505205509181.png)
 
-# 3. 运行
+# 3. Run
 
 在`main.py`中将`parser.add_argument('--is_train', action='store_true', default=0)`改为$1$即是训练
